@@ -4,22 +4,22 @@
 Ejecutamos:
 ![](Images/image1.PNG)
 Comprobamos los valores:
-![](images/image2.png)
+![](Images/image2.PNG)
 ## Task 2 
 ### List all variables currently loaded in to memory.
 Ejecutamos:
-![](images/image3.png)
+![](Images/image3.PNG)
 ## Task 3 
 ### Multiple two Int variables together
 Ejecutamos:
-![](images/image4.png)
+![](Images/image4.PNG)
 ## Task 4
 ###  First declare two Int variables. Then divided the first variable by the second and assign the result to a variable named $VariableResult
 Ejecutamos:
-![](images/image5.png)
+![](Images/image5.PNG)
 ## Task 5 
 ### Typecast a Variable as a “String” and assign it a value of 5
 Ejecutamos:
-![](images/image6.png)
+![](Images/image6.PNG)
 Y comprobamos:
-![](images/image7.png)
+![](Images/image7.PNG)
