@@ -2,7 +2,7 @@
 ## Task 1
 ### Assign a variable with each datatypes covered in the previous workshop
 Ejecutamos:
-![](images/image1.PNG)
+![](Images/image1.png)
 Comprobamos los valores:
 ![](images/image2.png)
 ## Task 2 
